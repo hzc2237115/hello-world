@@ -1,1 +1,205 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T14:20:23.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.44" version="15.2.9" etag="-9Ac6otdjCP6dvsX2_vD" type="github"><diagram id="B_k_Cmg8dfwIllJIq-Ze">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-22T01:56:18.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="awvvNAP39NimQxqFua5W" version="15.5.7" type="github">
+  <diagram id="B_k_Cmg8dfwIllJIq-Ze" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="470" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-2" value="协同创新&lt;br&gt;（规范数据治理，数据应用创新）&lt;br&gt;（设备完整性/工艺可靠性/应急处置预案等优化）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="70" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-4" value="协同创新&lt;br&gt;（规范数据治理，数据应用创新）&lt;br&gt;（产业供应影响评估+企业非危区域安全水平评估服务创新）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="420" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-6" value="高温熔融金属&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="50" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-14" value="重点工序&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E9%98%B2%E5%80%BE%E7%BF%BB%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D11%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2275%22%20y%3D%22230%22%20width%3D%2240%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="50" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-15" value="公共区域&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="50" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-16" value="设备管理&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="50" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-17" value="作业管理&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="60" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-18" value="环境保护&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="50" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-20" value="&lt;font style=&quot;font-size: 15px&quot;&gt;安全生产与管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-22" value="防倾翻" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="75" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-23" value="防泄露" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="75" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-24" value="防爆炸" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="75" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-25" value="防喷溅" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="75" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-26" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="75" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-27" value="采矿" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="145" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-28" value="焦化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="145" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-29" value="炼铁&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%84%A6%E5%8C%96%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D11%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22145%22%20y%3D%22260%22%20width%3D%2240%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="145" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-30" value="炼钢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="145" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-31" value="铸造" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="145" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-34" value="静设备安全" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="230" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-35" value="动设备安全" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="265" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-36" value="公共管理安全" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="300" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-37" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="340" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-45" value="巡检作业安全管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="220" width="54" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-49" value="出入口监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="230" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-50" value="作业区监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="265" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-51" value="周界监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="300" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-52" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="340" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-55" value="维修作业安全管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="252" width="54" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-56" value="车辆作业安全管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="353" y="286" width="54" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-57" value="吊运作业安全管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="353" y="320" width="54" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-58" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="353" y="352" width="54" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-59" value="废水检测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="230" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-60" value="废弃检测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="265" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-61" value="固废检测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="300" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-62" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="422" y="335" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-63" value="存量信息系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-65" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.6&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.6&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.6&quot;&gt;ERP、CRM、O&lt;span&gt;A&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.6&quot;&gt;&lt;span&gt;能源管理系统&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.6&quot;&gt;设备管理系统&lt;/p&gt;&lt;p style=&quot;line-height: 1.5&quot;&gt;检化验系统&lt;/p&gt;&lt;p style=&quot;line-height: 1.5&quot;&gt;质量管理系统&lt;/p&gt;&lt;p style=&quot;line-height: 1.5&quot;&gt;计量管理系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="590" y="80" width="100" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-67" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WYR5M6HnxCYj-dgklYdH-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="170" as="sourcePoint" />
+            <mxPoint x="510" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-68" value="&lt;font style=&quot;font-size: 11px&quot;&gt;协同创新&lt;br style=&quot;font-size: 11px&quot;&gt;数据来源&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="520" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="233.75999999999993" as="sourcePoint" />
+            <mxPoint x="510" y="233.82999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-70" value="传统业务&lt;br&gt;逐步上云" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-71" value="工&lt;br&gt;业&lt;br&gt;互&lt;br&gt;联&lt;br&gt;网&lt;br&gt;络" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="40" width="30" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-72" value="工&lt;br&gt;业&lt;br&gt;安&lt;br&gt;全&lt;br&gt;防&lt;br&gt;护" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="750" y="40" width="30" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-73" value="&lt;font style=&quot;font-size: 15px&quot;&gt;安全生产平台&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="660" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-74" value="&lt;p style=&quot;line-height: 1.7&quot;&gt;工业数据建模与分析&lt;br&gt;（安全机理模型、机器学习、可视化）&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="490" width="295" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-75" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;应用开发微服务组件&lt;br&gt;（开发工具、安全生产知识组件、算法组件、原理模型组件）&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="490" width="295" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-76" value="工业大数据系统（工业数据清洗、管理、分析、可视化等）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="565" width="620" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-77" value="&lt;br&gt;区域数据汇聚、数据减量解析、边缘计算智能等&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="660" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-78" value="设备接入" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="680" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-79" value="协议解析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="185" y="680" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-80" value="边缘数据处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="308" y="680" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-81" value="数据集成" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="680" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-82" value="在线实时管控模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="555" y="680" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-83" value="智能传感器/视频监控/仪表&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="660" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-84" value="电炉" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="800" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-90" value="烧结炉" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="800" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-91" value="焦炉" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="165" y="800" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-92" value="电渣炉" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="800" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-93" value="高炉" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="800" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYR5M6HnxCYj-dgklYdH-94" value="转炉" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="800" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
